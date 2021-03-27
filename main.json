@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/nordrheinwestfalen\/nordrheinwestfalen.json#reentry-chaospott"
+                 "value":"/_/global/c0c0bird.codeberg.page/main.json#start_chaospott"
                 }],
          "type":"tilelayer",
          "visible":true,
