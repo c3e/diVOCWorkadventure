@@ -878,7 +878,7 @@
         {
          "columns":16,
          "firstgid":3992,
-         "image":"..\/diVOCWorkadventure\/tilesets\/divoc-functional.png",
+         "image":"tilesets\/divoc-functional.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
