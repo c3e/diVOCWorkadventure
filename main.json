@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/rC3XBill\/rC3World\/master\/rc3world202012302019\/lobby.maps.at.rc3.world\/main.json"
+                 "value":"\/_\/global\/raw.githubusercontent.com\/rC3XBill\/rC3World\/master\/rc3world202012300218\/lobby.maps.at.rc3.world\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
